@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volviendo al pensamiento a."
-date: 2022-11-11
+date: 2024-11-11
 thumbnail: thumbnail.png
 dependencies:
   - p5
@@ -12,7 +12,7 @@ dependencies:
   <script type="text/javascript" src="sketch.js"></script>
 </div>
 
-_Martín Antuña_, 2022.
+_Luca Deira, 2024._
 
 **Volviendo al pensamiento a.**
 
@@ -23,7 +23,7 @@ El pasado cubre las ideas que nadie quiso descubrir.
 Todo tiempo se acelera sin llegar a ningún lugar,
 Pero algo hay que hacer, algo hay que producir.
 
-Persigan a esa gente que no se reproduce, mientras adoramos granos que se cultivan sin necesidad de plantarlos en la tierra.
+Persigan a esa gente que no se reproduce, mientras adoramos granos que se cultivan sin plantarlos en la tierra.
 ¿Cuál es el peligro a combatir?
 
 **Desarrollo técnico, estético y conceptual**
@@ -47,6 +47,6 @@ En la esquina superior izquierda del lienzo hay una selección de colores de la 
 
 **Bibliografía**
 
-AIRA, César (2010) Sobre el arte contemporáneo - Editorial Grijalbo-Mondadori
-FRICKE, Christiane (1999) Nuevos Medios - Taschen
-Reflexiones sobre "En torno al Pensamiento A" de Ernesto Deira | Galería Jacques Martínez
+FRICKE, Christiane. (1999). _"Nuevos Medios"_ en AAVV. Arte de siglo XX. Vol. II. München: Taschen.
+AIRA, César (2010). _"Sobre el arte contemporáneo"_. Editorial Grijalbo-Mondadori
+MARTINEZ, Clara (S/N). _"Reflexiones sobre "En torno al Pensamiento A" de Ernesto Deira"_. Galería Jacques Martínez. Recuperado de https://galeriajacquesmartinez.com/es/archives/null/jJ7XGWaXnD/reflexiones-sobre-en-torno-al-pensamiento-a-de-ernesto-deira 
